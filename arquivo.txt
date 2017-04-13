@@ -1,1 +1,2 @@
 Olá meu primeiro commit
+Este arquivo foi editado em 12/04/17. É a nossa primeira alteração.
